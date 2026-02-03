@@ -1,5 +1,5 @@
 # coding=utf-8
-# David Adelani
+# Bytte AI
 # Improved version with bug fixes and enhancements
 
 """
